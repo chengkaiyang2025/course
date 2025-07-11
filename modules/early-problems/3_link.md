@@ -1,0 +1,1 @@
+https://www.construx.com/blog/the-origins-of-10x-how-valid-is-the-underlying-research/
