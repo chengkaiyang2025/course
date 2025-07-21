@@ -211,7 +211,7 @@ and
 
 ^[See also [ACM SigSOFT Empirical Review Standards](https://github.com/acmsigsoft/EmpiricalStandards)]
 
-# Git Promises and Perils
+#                          mises and Perils
 
 ## Git Promises and Perils
 ::: {.incremental}
