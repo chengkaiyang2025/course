@@ -1,0 +1,13 @@
+开源软件中的演化：案例研究
+
+原标题：Evolution in open source software: a case study
+
+会议：2000年国际软件维护会议 (2000 International Conference on Software Maintenance)
+
+作者：未指定
+
+摘要：本文探讨了开源软件的演化过程，通过案例研究的方式分析了开源软件项目的发展模式和特点。
+
+关键词：开源软件、软件演化、案例研究、软件维护
+
+注意：原PDF文件包含完整的学术论文内容，如需完整翻译，请提供可读的文本格式。 

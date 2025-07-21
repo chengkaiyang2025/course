@@ -146,7 +146,7 @@ and
    
 See also [ACM SigSOFT Empirical Review Standards](https://github.com/acmsigsoft/EmpiricalStandards)
 
-# Git Promises and Perils
+#                          mises and Perils
 
 ## {.incremental}
 - **promises**: analysis Git enables
