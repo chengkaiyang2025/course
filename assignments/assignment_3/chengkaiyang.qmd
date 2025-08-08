@@ -1,0 +1,21 @@
+```{r}
+
+
+
+library(foreign)
+df <- read.arff("nasa93.arff")
+
+
+```
+
+```{r}
+head(df)
+# predictors: cplx, year, project category pcat, analyst capability acap, and programmer capability pcap.
+# effort required:act_effort
+summary(df)
+```
+
+```{r}
+df[ , c("pcp", "acap")]
+
+```
