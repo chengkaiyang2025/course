@@ -209,7 +209,7 @@ and
 12. No rationale for learner choice
 ::: -->
 
-^[See also [ACM SigSOFT Empirical Review Standards](https://github.com/acmsigsoft/EmpiricalStandards)]
+#                          mises and Perils
 
 #                          mises and Perils
 
